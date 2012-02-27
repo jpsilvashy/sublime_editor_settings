@@ -1,3 +1,12 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme"
+  // theme
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+
+	// tabs
+	"tab_size": 2,
+  "translate_tabs_to_spaces": true,
+
+  // font
+  "font_face": "Menlo",
+  "font_size": 14
 }
