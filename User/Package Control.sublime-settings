@@ -1,8 +1,11 @@
 {
-	"auto_upgrade_last_run": 1330374607,
+	"auto_upgrade_last_run": 1330555232,
 	"installed_packages":
 	[
+		"Git",
 		"Package Control",
-		"Prefixr"
+		"Prefixr",
+		"SideBarGit",
+		"TrailingSpaces"
 	]
 }
